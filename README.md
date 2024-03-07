@@ -9,18 +9,14 @@ The library is designed to be easy to understand, portable, and lightweight, mak
 Features
 
 
-|Category	             |    Description|          
-----------------------      --------------------------------------------------------------------------------------------------------------
-|Memory Functions	     |    Functions for efficient memory manipulation and allocation, such as memset, memcpy, memccpy, and more.|
-----------------------      --------------------------------------------------------------------------------------------------------------
-|String Functions	     |    String handling functions to manipulate and analyze strings, including strlen, strcpy, strcat, and more.|
-----------------------      --------------------------------------------------------------------------------------------------------------
-|Conversion Functions	 |    Functions for converting data types, such as atoi (string to integer) and itoa (integer to string).|
-----------------------      --------------------------------------------------------------------------------------------------------------
-|Character Functions	   |    Functions to handle individual characters, like isalpha, isdigit, toupper, and more.|
-----------------------      --------------------------------------------------------------------------------------------------------------
-|Linked List Functions	 |    Custom implementation of basic operations on linked lists, including creation, manipulation, and iteration.|
--------------------------------------------------------------------------------------------------------------------------------------------
+| Category               | Description                                                                                                   |
+|------------------------|---------------------------------------------------------------------------------------------------------------|
+| Memory Functions       | Functions for efficient memory manipulation and allocation, such as memset, memcpy, memccpy, and more.       |
+| String Functions       | String handling functions to manipulate and analyze strings, including strlen, strcpy, strcat, and more.    |
+| Conversion Functions   | Functions for converting data types, such as atoi (string to integer) and itoa (integer to string).           |
+| Character Functions    | Functions to handle individual characters, like isalpha, isdigit, toupper, and more.                         |
+| Linked List Functions  | Custom implementation of basic operations on linked lists, including creation, manipulation, and iteration. |
+
 
 
 By completing the libft project, participants gain a deeper understanding of the inner workings of these fundamental functions and develop essential programming skills. They learn about pointer manipulation, memory allocation, and deallocation, as well as the proper use of structures and data types.
