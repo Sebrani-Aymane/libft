@@ -3,15 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memset.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: asebrani <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: asebrani <asebrani@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/04 06:11:36 by asebrani          #+#    #+#             */
-/*   Updated: 2023/11/04 09:45:09 by asebrani         ###   ########.fr       */
+/*   Updated: 2024/04/19 20:39:49 by asebrani         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-
+/* settong memory bite per bite */
 void	*ft_memset(void	*b, int c, size_t	len)
 {
 	size_t			i;
